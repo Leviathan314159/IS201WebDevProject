@@ -1,0 +1,71 @@
+/*This is my css file to overwrite some of the bootstrap styles*/
+
+/*Levi Williams*/
+/*I last edited this file at 11:25 pm on Monday 6/13/2022.*/
+
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+    color: #212529;
+}
+
+p {
+    color: #212529;
+    font-style: normal;
+}
+
+ul {
+    color: #212529;
+}
+
+li {
+    font-style: normal;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #212529;
+}
+
+h3 {
+    color: #212529;
+}
+
+
+
+
+
+
+.sublist {
+    padding-left: 2rem;
+    font-size: 16px;
+}
+
+.darkText {
+    color: #212529;
+}
+
+.listHeading {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.categoryHeading {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.undertext {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.siteHeadingLink {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.siteHeadingLink:hover {
+    color: navy;
+}
